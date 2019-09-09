@@ -1,0 +1,9 @@
+[IP Address for ProPresenter Machine:]
+172.16.101.100
+[Port Number for ProPresenter (Find under Remote Stage Display port):]
+53333
+[Password for ProPresenter (Find under Remote Stage Display settings):]
+stagepw123
+[Current Slide output text file Location]
+currentSlide.txt
+[ENDCONFIG]
